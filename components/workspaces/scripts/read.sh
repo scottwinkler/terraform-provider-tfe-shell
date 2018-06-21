@@ -1,0 +1,2 @@
+IN=$(cat)
+echo $IN
